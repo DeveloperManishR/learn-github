@@ -1,4 +1,7 @@
 function add(num1,num2){
+    if(num1<num2){
+        return 'Num should be grater '
+    }
  return num1+num2
 }
 
