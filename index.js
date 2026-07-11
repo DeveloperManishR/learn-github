@@ -16,3 +16,4 @@ function mutiply(num1,num2){
 add(2,3)
 sub(3,4)
 mutiply(32,41)
+mutiply(32,41)
