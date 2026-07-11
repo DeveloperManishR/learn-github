@@ -5,3 +5,6 @@ git status
 
 git diff 
 
+git diff --oneline 
+
+git revert commitId 
