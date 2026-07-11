@@ -3,5 +3,5 @@ git log
 git status 
 
 
-git diff f060ed9a2 152a09388
+git diff 
 
